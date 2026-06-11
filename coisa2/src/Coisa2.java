@@ -11,5 +11,10 @@ public class Coisa2 {
 
         System.out.printf("Numero 1: %.20f\n", numero1);
         System.out.printf("Numero 2: %.20f\n ", numero2);
+
+        // posso chamar um método de qualquer string
+        char x = "abcdefghijklmnopqrstuvwxyz".charAt(15);
+        String saida = String.format("A 15ª letra do alfabeto é %c\n", x);
+        System.out.println(saida);
     }
 }
