@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BombaRelogio/BombaRelogio.iml" filepath="$PROJECT_DIR$/BombaRelogio/BombaRelogio.iml" />
       <module fileurl="file://$PROJECT_DIR$/Coisa4/Coisa4.iml" filepath="$PROJECT_DIR$/Coisa4/Coisa4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotasAluno/NotasAluno.iml" filepath="$PROJECT_DIR$/NotasAluno/NotasAluno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticCoisa/StaticCoisa.iml" filepath="$PROJECT_DIR$/StaticCoisa/StaticCoisa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Turmas/Turmas.iml" filepath="$PROJECT_DIR$/Turmas/Turmas.iml" />
       <module fileurl="file://$PROJECT_DIR$/coisa2/coisa2.iml" filepath="$PROJECT_DIR$/coisa2/coisa2.iml" />
       <module fileurl="file://$PROJECT_DIR$/coisa3/coisa3.iml" filepath="$PROJECT_DIR$/coisa3/coisa3.iml" />
       <module fileurl="file://$PROJECT_DIR$/turma379.iml" filepath="$PROJECT_DIR$/turma379.iml" />
