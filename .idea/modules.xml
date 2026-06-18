@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BombaRelogio/BombaRelogio.iml" filepath="$PROJECT_DIR$/BombaRelogio/BombaRelogio.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Coisa4/Coisa4.iml" filepath="$PROJECT_DIR$/Coisa4/Coisa4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Coisa7/Coisa7.iml" filepath="$PROJECT_DIR$/Coisa7/Coisa7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ConsumoCarro/ConsumoCarro.iml" filepath="$PROJECT_DIR$/ConsumoCarro/ConsumoCarro.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
-      <module fileurl="file://$PROJECT_DIR$/NotasAluno/NotasAluno.iml" filepath="$PROJECT_DIR$/NotasAluno/NotasAluno.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StaticCoisa/StaticCoisa.iml" filepath="$PROJECT_DIR$/StaticCoisa/StaticCoisa.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Turmas/Turmas.iml" filepath="$PROJECT_DIR$/Turmas/Turmas.iml" />
-      <module fileurl="file://$PROJECT_DIR$/coisa2/coisa2.iml" filepath="$PROJECT_DIR$/coisa2/coisa2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/coisa3/coisa3.iml" filepath="$PROJECT_DIR$/coisa3/coisa3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2026-06-03 Coisa4/2026-06-03 Coisa4.iml" filepath="$PROJECT_DIR$/2026-06-03 Coisa4/2026-06-03 Coisa4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2026-06-03 coisa2/2026-06-03 coisa2.iml" filepath="$PROJECT_DIR$/2026-06-03 coisa2/2026-06-03 coisa2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2026-06-03 coisa3/2026-06-03 coisa3.iml" filepath="$PROJECT_DIR$/2026-06-03 coisa3/2026-06-03 coisa3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2026-06-15 NotasAluno/2026-06-15 NotasAluno.iml" filepath="$PROJECT_DIR$/2026-06-15 NotasAluno/2026-06-15 NotasAluno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2026-06-16 BombaRelogio/2026-06-16 BombaRelogio.iml" filepath="$PROJECT_DIR$/2026-06-16 BombaRelogio/2026-06-16 BombaRelogio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2026-06-16 Coisa7/2026-06-16 Coisa7.iml" filepath="$PROJECT_DIR$/2026-06-16 Coisa7/2026-06-16 Coisa7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2026-06-16 ConsumoCarro/2026-06-16 ConsumoCarro.iml" filepath="$PROJECT_DIR$/2026-06-16 ConsumoCarro/2026-06-16 ConsumoCarro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2026-06-16 Exception/2026-06-16 Exception.iml" filepath="$PROJECT_DIR$/2026-06-16 Exception/2026-06-16 Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2026-06-16 StaticCoisa/2026-06-16 StaticCoisa.iml" filepath="$PROJECT_DIR$/2026-06-16 StaticCoisa/2026-06-16 StaticCoisa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2026-06-16 Turmas/2026-06-16 Turmas.iml" filepath="$PROJECT_DIR$/2026-06-16 Turmas/2026-06-16 Turmas.iml" />
       <module fileurl="file://$PROJECT_DIR$/turma379.iml" filepath="$PROJECT_DIR$/turma379.iml" />
     </modules>
   </component>

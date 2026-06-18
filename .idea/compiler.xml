@@ -6,9 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Coisa5" />
-        <module name="Banco" />
-        <module name="Coisa6" />
+        <module name="2026-06-10 Coisa5" />
+        <module name="2026-06-10 Banco" />
+        <module name="2026-06-11 Coisa6" />
       </profile>
     </annotationProcessing>
   </component>
