@@ -1,0 +1,10 @@
+São Paulo	11900000
+Rio de Janeiro	6720000
+Brasília	3.000.000
+Fortaleza	2700000
+Salvador	2420000
+Belo Horizonte	2.320.000
+Manaus	2220000
+Curitiba	1770000
+Recife	1490000
+Goiânia	1490000
