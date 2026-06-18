@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BombaRelogio/BombaRelogio.iml" filepath="$PROJECT_DIR$/BombaRelogio/BombaRelogio.iml" />
       <module fileurl="file://$PROJECT_DIR$/Coisa4/Coisa4.iml" filepath="$PROJECT_DIR$/Coisa4/Coisa4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coisa7/Coisa7.iml" filepath="$PROJECT_DIR$/Coisa7/Coisa7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConsumoCarro/ConsumoCarro.iml" filepath="$PROJECT_DIR$/ConsumoCarro/ConsumoCarro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/NotasAluno/NotasAluno.iml" filepath="$PROJECT_DIR$/NotasAluno/NotasAluno.iml" />
       <module fileurl="file://$PROJECT_DIR$/StaticCoisa/StaticCoisa.iml" filepath="$PROJECT_DIR$/StaticCoisa/StaticCoisa.iml" />
       <module fileurl="file://$PROJECT_DIR$/Turmas/Turmas.iml" filepath="$PROJECT_DIR$/Turmas/Turmas.iml" />
