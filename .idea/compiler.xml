@@ -6,10 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="2026-06-10 Coisa5" />
-        <module name="2026-06-10 Banco" />
-        <module name="2026-06-11 Coisa6" />
+        <module name="2026-06-18-Banco1" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="2026-06-10 Banco" target="25" />
+      <module name="2026-06-10 Coisa5" target="25" />
+      <module name="2026-06-11 Coisa6" target="25" />
+    </bytecodeTargetLevel>
   </component>
 </project>
