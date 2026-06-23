@@ -12,4 +12,6 @@ public class Motorista {
     public Motorista(String nome) {
         this.nome = nome;
     }
+
+    public Motorista(){}
 }

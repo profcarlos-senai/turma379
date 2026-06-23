@@ -1,9 +1,11 @@
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Arquivo1 {
-    static void main() {
+    public static void main(String[] args) {
         File arquivo = new File("2026-06-18 Arquivo1/cidades.txt");
         try(Scanner leitor = new Scanner(arquivo)){
 
@@ -18,12 +20,16 @@ public class Arquivo1 {
                 String cidade = dados[0].trim(); // trim() remove espaços da string
 
                 try {
-
-                    int populacao = Integer.parseInt(dados[1].trim()); // Integer.parseInt() converte de String para int
+                    String valor = dados[1].trim(); // remove os espaços antes e depois
+                    valor = valor.replace(".", ""); // remove os pontos
+                    int populacao = Integer.parseInt(valor); // Integer.parseInt() converte de String para int
                     System.out.printf("%-15s | %8d\n", cidade, populacao);
 
                 } catch (NumberFormatException e) {
                     System.out.println("#ERRO - [" + linha + "]");
+                } catch (RuntimeException e){
+                    System.out.println("#ERRO não identificado");
+                    return; // cai fora da main, quer dizer encerra o programa
                 }
 
             }
